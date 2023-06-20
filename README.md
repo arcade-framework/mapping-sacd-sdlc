@@ -2,6 +2,8 @@
 
 We present on this page the supplementary material regarding the paper: Incremental Development of Safety Cases: a Mapping Study. Paper published at [34th Brazilian Symposium on Software Engineering, SBES 2020](https://cbsoft2020.imd.ufrn.br/sbes.php).
 
+This article is part of the ARCADE Framework research project: <https://arcade-framework.github.io/>
+
 ### Authors
 
 Camilo Almendra, Carla Silva, and Jéssyka Vilela.
