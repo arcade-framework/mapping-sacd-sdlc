@@ -23,7 +23,7 @@ Keywords: Safety assurance case, Incremental development, Systematic mapping stu
 
 ### Supplementary material
 
-It presents more information on the search strategy, a quality evaluation of the studies, extended data for research questions RQ1 and RQ3, and additional research questions RQ5 and RQ6. Link: <https://github.com/ccalmendra/mapping-sacd-sdlc/blob/master/Almendra_Silva_Vilela_SBES_2020_SupplementaryMaterial.pdf>
+It presents more information on the search strategy, a quality evaluation of the studies, extended data for research questions RQ1 and RQ3, and additional research questions RQ5 and RQ6. Link: <https://github.com/arcade-framework/mapping-sacd-sdlc/blob/master/Almendra_Silva_Vilela_SBES_2020_SupplementaryMaterial.pdf>
 
 ## Since you are here...
 
